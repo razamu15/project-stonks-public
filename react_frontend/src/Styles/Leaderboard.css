@@ -1,0 +1,24 @@
+#friend-list{
+    margin: 0px 0px 10px 0px; 
+    max-height: 80px; 
+    display:flex; 
+    padding: .75rem;
+    align-items:center;
+    justify-content: space-between;
+}
+
+.perf{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+
+.list-right{
+    display: flex;
+    align-items: center;
+}
+
+.profile-subtitle{
+    border-bottom: 1px solid grey;
+}

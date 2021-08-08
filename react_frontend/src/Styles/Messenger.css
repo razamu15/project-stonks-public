@@ -1,0 +1,57 @@
+#portfolio-pane{
+  border-left: solid #dbdbdb 1px;
+}
+
+#message-pane{
+  /* border: 1px solid #bbb; */
+  /* background-color: darkgrey; */
+  padding: 10px;
+  height: 70vh;
+  width: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  margin: 0px;
+}
+
+#message-form{
+  padding: 0.75rem;
+}
+
+#tabs {
+  margin: 0px;
+  border-bottom: solid #dbdbdb 1px;
+}
+
+.stock-tile{
+  border: solid 1px #5555FF;
+  border-radius: 5px;
+  margin: 10px 5px 0px 5px;
+  cursor: pointer;
+  color: #5555FF;
+}
+
+.active-stock-tile{
+  background-color: #8181ff;
+  color: white;
+}
+
+.inline {
+  display: flex;
+  justify-content: space-around;
+  align-items:center;
+}
+
+#change{
+  margin: 10px 0px;
+}
+
+#change-content{
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  /* color: white; */
+}
+
+/* .no-margin{
+  margin-bottom: 0px;
+} */

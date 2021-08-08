@@ -1,0 +1,22 @@
+*~*
+**/node_modules
+
+react-sandbox/.pnp
+react-sandbox/.pnp.js
+
+# testing
+react-sandbox/coverage
+
+# production
+react-sandbox/build
+
+# misc
+react-sandbox/.DS_Store
+react-sandbox/.env.local
+react-sandbox/.env.development.local
+react-sandbox/.env.test.local
+react-sandbox/.env.production.local
+
+react-sandbox/npm-debug.log*
+react-sandbox/yarn-debug.log*
+react-sandbox/yarn-error.log*

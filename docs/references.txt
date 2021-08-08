@@ -1,0 +1,39 @@
+for Auth custom hook: 
+    https://usehooks.com/useAuth/
+    https://reactrouter.com/web/example/auth-workflow
+
+for graphQL
+    https://www.apollographql.com/docs/tutorial/introduction/
+
+React componenets:
+    https://www.pluralsight.com/guides/how-to-implement-a-component-%22loop%22-with-react
+
+Bulma navbar:
+    https://bulma.io/documentation/components/navbar/#basic-navbar
+
+Bulma prebuilt component setups:
+    https://bulmatemplates.github.io/bulma-templates/
+
+Jwt explanation on the webs
+    https://www.digitalocean.com/community/tutorials/nodejs-jwt-expressjs
+
+Charting library
+    https://www.zingchart.com/docs/integrations/react
+
+React socketios help/info
+    https://medium.com/swlh/build-a-real-time-chat-app-with-react-hooks-and-socket-io-4859c9afecb0
+    https://stackoverflow.com/questions/53383316/right-way-to-fetch-data-with-react-using-socket-io
+    https://www.reddit.com/r/reactjs/comments/arj9ml/trying_to_write_a_custom_usewebsocket_hook/
+
+React hooks explained (useState/useRef/useEffect)
+    https://www.youtube.com/watch?v=TNhaISOUy6Q&t=338s
+
+
+redis keyspace events
+    https://stackoverflow.com/questions/41103305/nodejs-redis-listener
+
+digital ocean nginx tutorials
+    https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04
+    https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
+    https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-with-nginx-on-ubuntu-20-04
+    
