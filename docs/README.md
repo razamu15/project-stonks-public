@@ -5,7 +5,11 @@ I built this app as side-project to learn combine and learn a bunch of new tech 
 ### for a quick view on how everything fits together: __see the [architecture pdf](https://github.com/razamu15/project-stonks-public/blob/master/docs/architecture.pdf)__
 
 
-[embed]https://github.com/razamu15/project-stonks-public/blob/master/docs/architecture.pdf[/embed]
+<object data="https://github.com/razamu15/project-stonks-public/blob/master/docs/architecture.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/razamu15/project-stonks-public/blob/master/docs/architecture.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/razamu15/project-stonks-public/blob/master/docs/architecture.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 \
 
