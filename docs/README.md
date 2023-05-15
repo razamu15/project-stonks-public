@@ -5,7 +5,7 @@ I built this app as side-project to learn combine and learn a bunch of new tech 
 ### for a quick view on how everything fits together: __see the [architecture pdf](https://github.com/razamu15/project-stonks-public/blob/master/docs/architecture.pdf)__
 
 
-[embed]https://github.com/razamu15/project-stonks-public/blob/master/docs/architecture[/embed]
+[embed]https://github.com/razamu15/project-stonks-public/blob/master/docs/architecture.pdf[/embed]
 
 \
 

@@ -1,12 +1,15 @@
 ## Stonks Web Application
 
 <!-- ## Video link:https://youtu.be/_DxDkdE2adE -->
-## Website URL: projectstonks.me (OFFLINE)
+Website URL: projectstonks.me (OFFLINE)
 
-## For a quick rundown of tech look at docs folder
+__For a quick rundown of tech look at docs folder__
 
 ### Description:
 A social media platform that enables investors to collaborate with friends and family to enrich their investing experience whilst enabling them to be better informed on social trends resulting in more profitable and reliable stock trades. Users are capable of searching for similar investors, based on investment brackets and similar investment industries. 
+
+\
+\
 
 ### Features
 1) __Real time Stock Updates__ <br>
